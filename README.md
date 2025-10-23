@@ -31,7 +31,7 @@ Consumer social app creating custom digital spaces for fandoms.
 - Custom AWS: Cognito, AppSync, DynamoDB, GraphQL
 - S3 for dynamic content delivery
 
-### 👥 SQUAD & SQUAD Parent
+### 👥 [SQUAD & SQUAD Parent](https://github.com/HT1994378/SQUAD)
 Dual-app system for safer social media for young people with parental oversight.
 - Age verification via Persona facial scanning
 - Real-time content moderation using Sightengine
