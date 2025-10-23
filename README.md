@@ -41,7 +41,7 @@ Dual-app system for safer social media for young people with parental oversight.
 - Flutter with Firebase backend
 - Persona, Sightengine, Spotify, Resend APIs
 
-## Architecture Decisions I'm Proud Of
+## Architecture Decisions I thought were interesting
 
 **Keeping wrld lightweight:** Started by hardcoding the Harry Potter wrld, realized it wasn't scalable. Pivoted to a shell architecture where the Flutter app pulls wrld-specific content from S3.
 
