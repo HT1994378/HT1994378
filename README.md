@@ -21,7 +21,7 @@ B2B workplace companion with mobile app for employees and web dashboard for HR. 
 - Claude API with custom prompt routing
 - Supabase for policy storage, Parameter Store for prompts
 
-### 🌍 wrld
+### 🌍 [wrld](https://github.com/HT1994378/wrld)
 Consumer social app creating custom digital spaces for fandoms.
 - Modular architecture: Flutter shell pulling fandom-specific content from S3
 - Built and deployed Harry Potter wrld as proof of concept
